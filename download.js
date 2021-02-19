@@ -1,6 +1,6 @@
 document.querySelectorAll('.button').forEach(button => {
 
-    let duration = 3000,
+    let duration = 2000,
         svg = button.querySelector('svg'),
         svgPath = new Proxy({
             y: null,
@@ -49,6 +49,7 @@ document.querySelectorAll('.button').forEach(button => {
                     [8, 19],
                     [21, 6]
                 ]);
+                GetXMLFile();
             }, duration / 2);
 
         }
