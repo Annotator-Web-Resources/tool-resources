@@ -39,6 +39,7 @@ button:active {
 }
 button::after{
   content: "SUBMIT";
+  
 }
 /* #button1:after {
   content: "POOL FUSION";
