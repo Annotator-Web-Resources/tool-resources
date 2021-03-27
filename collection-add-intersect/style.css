@@ -38,14 +38,14 @@ button:active {
   letter-spacing: 2px;
 }
 button::after{
-  content: "SUCCESS";
+  content: "SUBMIT";
 }
-#button1:after {
+/* #button1:after {
   content: "POOL FUSION";
 }
 #button2:after {
   content: "POOL INTERSECTION";
-}
+} */
 .onclic {
   width: 40px;
   border-color: #bbbbbb;
