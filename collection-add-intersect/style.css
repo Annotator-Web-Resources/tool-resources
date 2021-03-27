@@ -37,6 +37,9 @@ button:hover {
 button:active {
   letter-spacing: 2px;
 }
+button::after{
+  content: "SUCCESS";
+}
 #button1:after {
   content: "POOL FUSION";
 }
