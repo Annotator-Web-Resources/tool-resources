@@ -70,7 +70,7 @@ button::after{
 }
 .validate:after {
   font-family: "FontAwesome";
-  content: "";
+  content: "\f00c";
 }
 
 @-webkit-keyframes rotating {
