@@ -6,7 +6,7 @@ body {
   justify-content: center;
   height: 100vh;
   /* grey */
-  background-color: #fff;
+  background-color: transparent;
 }
 
 p {
