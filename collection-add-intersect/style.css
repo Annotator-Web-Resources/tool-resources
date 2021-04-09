@@ -14,7 +14,7 @@
   text-align: center;
 }
 
-button {
+.buttn {
   outline: none;
   height: 40px;
   text-align: center;
@@ -30,21 +30,21 @@ button {
   cursor: pointer;
   transition: all 0.25s ease;
 }
-button:hover {
+.buttn:hover {
   color: white;
   background: #444857;
 }
-button:active {
+.buttn:active {
   letter-spacing: 2px;
 }
-button::after{
+.buttn::after{
   content: "SUBMIT";
   
 }
-/* #button1:after {
+/* #.buttn1:after {
   content: "POOL FUSION";
 }
-#button2:after {
+#.buttn2:after {
   content: "POOL INTERSECTION";
 } */
 .onclic {
