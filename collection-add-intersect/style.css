@@ -73,6 +73,15 @@
   font-family: "FontAwesome";
   content: "\f00c";
 }
+.validate1 {
+  font-size: 13px;
+  color: white;
+  background: #444857;
+}
+.validate1:after {
+  font-family: "FontAwesome";
+  content: "\f00c";
+}
 
 @-webkit-keyframes rotating {
   from {
