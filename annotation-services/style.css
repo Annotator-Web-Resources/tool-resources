@@ -37,8 +37,8 @@ body {
   background: #5f39dd;
 }
 .container {
-  margin: 5vh 2.5vw;
-  padding: 15vh 0;
+  margin: 0.5vh 0.5vw;
+  padding: 10vh 0;
   background: #fff;
   border-radius: 5px;
   display: flex;
